@@ -7,7 +7,7 @@
 [link text](comp1238.md)
 
 ## Autograder
-[about autograder](autograder_instructions.md)
+[about autograder](https://github.com/kamrik/IntroText/blob/main/labs/autograder_instructions.md)
 
 ## School Schedule
 - **Monday**
